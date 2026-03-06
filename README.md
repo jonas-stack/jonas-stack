@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jonas-stack&label=Profile%20views&color=0e75b6&style=flat" alt="jonas-stack" /> </p>
 
-- 📫 How to reach me **jonasspeedtsberg99@gmail.com**
+<p align="center"> - 📫 How to reach me **jonasspeedtsberg99@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

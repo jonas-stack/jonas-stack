@@ -13,4 +13,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-stack&" alt="jonas-stack" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-stack&" alt="jonas-stack" /></p>
